@@ -38,8 +38,8 @@ chmod +x /data/data/com.termux/files/usr/bin/hiddeneye
 echo ""
 echo ""
 echo -e "$red Setup Complete"
-echo -e " Now You Can Run HiddenEye Tool By Typing 
-       hiddeneye
-    
-echo -e "$blue Hidden Eye In Termux By Prince Yasin"
-  
+figlet Prince Yasin |lolcat|lolcat
+hiddeneye
+cd
+hiddeneye
+
