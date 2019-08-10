@@ -39,7 +39,7 @@ echo ""
 echo ""
 echo -e "$red Setup Complete"
 echo -e " Now You Can Run HiddenEye Tool By Typing 
-    hiddeneye
+       hiddeneye
     
-echo -e "$Hidden Eye In Termux By Prince Yasin"
+echo -e "$blue Hidden Eye In Termux By Prince Yasin"
   
